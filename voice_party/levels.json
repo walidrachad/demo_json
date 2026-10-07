@@ -1,0 +1,3282 @@
+{
+  "schemaVersion": 1,
+  "description": "Voice Party public editable level configuration. Each round has an audioUrl that can be replaced without a game update.",
+  "levels": [
+    {
+      "level": 1,
+      "world": "funny",
+      "rounds": [
+        {
+          "id": "level_001_round_1",
+          "label": "Boing Pop",
+          "durationMs": 1800,
+          "pitch": [
+            220,
+            260,
+            330,
+            260,
+            210
+          ],
+          "energy": [
+            0.25,
+            0.75,
+            1,
+            0.55,
+            0.25
+          ],
+          "beats": [
+            0,
+            420,
+            900,
+            1320
+          ],
+          "tones": [
+            220,
+            330,
+            260,
+            420
+          ],
+          "audioUrl": "https://raw.githubusercontent.com/walidrachad/demo_json/main/voice_party/audio/level_001.wav"
+        },
+        {
+          "id": "level_001_round_2",
+          "label": "Boing Pop",
+          "durationMs": 1800,
+          "pitch": [
+            220,
+            260,
+            330,
+            260,
+            210
+          ],
+          "energy": [
+            0.25,
+            0.75,
+            1,
+            0.55,
+            0.25
+          ],
+          "beats": [
+            0,
+            420,
+            900,
+            1320
+          ],
+          "tones": [
+            220,
+            330,
+            260,
+            420
+          ],
+          "audioUrl": "https://raw.githubusercontent.com/walidrachad/demo_json/main/voice_party/audio/level_001.wav"
+        },
+        {
+          "id": "level_001_round_3",
+          "label": "Boing Pop",
+          "durationMs": 1800,
+          "pitch": [
+            220,
+            260,
+            330,
+            260,
+            210
+          ],
+          "energy": [
+            0.25,
+            0.75,
+            1,
+            0.55,
+            0.25
+          ],
+          "beats": [
+            0,
+            420,
+            900,
+            1320
+          ],
+          "tones": [
+            220,
+            330,
+            260,
+            420
+          ],
+          "audioUrl": "https://raw.githubusercontent.com/walidrachad/demo_json/main/voice_party/audio/level_001.wav"
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "world": "funny",
+      "rounds": [
+        {
+          "id": "level_002_round_1",
+          "label": "Wobble Wow",
+          "durationMs": 2100,
+          "pitch": [
+            190,
+            240,
+            300,
+            250,
+            320,
+            210
+          ],
+          "energy": [
+            0.3,
+            0.55,
+            0.85,
+            0.6,
+            0.9,
+            0.3
+          ],
+          "beats": [
+            0,
+            350,
+            760,
+            1210,
+            1650
+          ],
+          "tones": [
+            190,
+            240,
+            300,
+            250,
+            320
+          ],
+          "audioUrl": "https://raw.githubusercontent.com/walidrachad/demo_json/main/voice_party/audio/level_002.wav"
+        },
+        {
+          "id": "level_002_round_2",
+          "label": "Wobble Wow",
+          "durationMs": 2100,
+          "pitch": [
+            190,
+            240,
+            300,
+            250,
+            320,
+            210
+          ],
+          "energy": [
+            0.3,
+            0.55,
+            0.85,
+            0.6,
+            0.9,
+            0.3
+          ],
+          "beats": [
+            0,
+            350,
+            760,
+            1210,
+            1650
+          ],
+          "tones": [
+            190,
+            240,
+            300,
+            250,
+            320
+          ],
+          "audioUrl": "https://raw.githubusercontent.com/walidrachad/demo_json/main/voice_party/audio/level_002.wav"
+        },
+        {
+          "id": "level_002_round_3",
+          "label": "Wobble Wow",
+          "durationMs": 2100,
+          "pitch": [
+            190,
+            240,
+            300,
+            250,
+            320,
+            210
+          ],
+          "energy": [
+            0.3,
+            0.55,
+            0.85,
+            0.6,
+            0.9,
+            0.3
+          ],
+          "beats": [
+            0,
+            350,
+            760,
+            1210,
+            1650
+          ],
+          "tones": [
+            190,
+            240,
+            300,
+            250,
+            320
+          ],
+          "audioUrl": "https://raw.githubusercontent.com/walidrachad/demo_json/main/voice_party/audio/level_002.wav"
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "world": "funny",
+      "rounds": [
+        {
+          "id": "level_003_round_1",
+          "label": "Brrr Bam",
+          "durationMs": 2000,
+          "pitch": [
+            140,
+            145,
+            150,
+            310,
+            180
+          ],
+          "energy": [
+            0.55,
+            0.6,
+            0.65,
+            1,
+            0.2
+          ],
+          "beats": [
+            0,
+            250,
+            500,
+            1200
+          ],
+          "tones": [
+            145,
+            145,
+            145,
+            420
+          ],
+          "audioUrl": "https://raw.githubusercontent.com/walidrachad/demo_json/main/voice_party/audio/level_003.wav"
+        },
+        {
+          "id": "level_003_round_2",
+          "label": "Brrr Bam",
+          "durationMs": 2000,
+          "pitch": [
+            140,
+            145,
+            150,
+            310,
+            180
+          ],
+          "energy": [
+            0.55,
+            0.6,
+            0.65,
+            1,
+            0.2
+          ],
+          "beats": [
+            0,
+            250,
+            500,
+            1200
+          ],
+          "tones": [
+            145,
+            145,
+            145,
+            420
+          ],
+          "audioUrl": "https://raw.githubusercontent.com/walidrachad/demo_json/main/voice_party/audio/level_003.wav"
+        },
+        {
+          "id": "level_003_round_3",
+          "label": "Brrr Bam",
+          "durationMs": 2000,
+          "pitch": [
+            140,
+            145,
+            150,
+            310,
+            180
+          ],
+          "energy": [
+            0.55,
+            0.6,
+            0.65,
+            1,
+            0.2
+          ],
+          "beats": [
+            0,
+            250,
+            500,
+            1200
+          ],
+          "tones": [
+            145,
+            145,
+            145,
+            420
+          ],
+          "audioUrl": "https://raw.githubusercontent.com/walidrachad/demo_json/main/voice_party/audio/level_003.wav"
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "world": "funny",
+      "rounds": [
+        {
+          "id": "level_004_round_1",
+          "label": "Silly Siren",
+          "durationMs": 2400,
+          "pitch": [
+            210,
+            290,
+            370,
+            300,
+            230,
+            350
+          ],
+          "energy": [
+            0.35,
+            0.55,
+            0.75,
+            0.6,
+            0.45,
+            0.8
+          ],
+          "beats": [
+            0,
+            480,
+            960,
+            1440,
+            1920
+          ],
+          "tones": [
+            210,
+            290,
+            370,
+            300,
+            230
+          ],
+          "audioUrl": "https://raw.githubusercontent.com/walidrachad/demo_json/main/voice_party/audio/level_004.wav"
+        },
+        {
+          "id": "level_004_round_2",
+          "label": "Silly Siren",
+          "durationMs": 2400,
+          "pitch": [
+            210,
+            290,
+            370,
+            300,
+            230,
+            350
+          ],
+          "energy": [
+            0.35,
+            0.55,
+            0.75,
+            0.6,
+            0.45,
+            0.8
+          ],
+          "beats": [
+            0,
+            480,
+            960,
+            1440,
+            1920
+          ],
+          "tones": [
+            210,
+            290,
+            370,
+            300,
+            230
+          ],
+          "audioUrl": "https://raw.githubusercontent.com/walidrachad/demo_json/main/voice_party/audio/level_004.wav"
+        },
+        {
+          "id": "level_004_round_3",
+          "label": "Silly Siren",
+          "durationMs": 2400,
+          "pitch": [
+            210,
+            290,
+            370,
+            300,
+            230,
+            350
+          ],
+          "energy": [
+            0.35,
+            0.55,
+            0.75,
+            0.6,
+            0.45,
+            0.8
+          ],
+          "beats": [
+            0,
+            480,
+            960,
+            1440,
+            1920
+          ],
+          "tones": [
+            210,
+            290,
+            370,
+            300,
+            230
+          ],
+          "audioUrl": "https://raw.githubusercontent.com/walidrachad/demo_json/main/voice_party/audio/level_004.wav"
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "world": "funny",
+      "rounds": [
+        {
+          "id": "level_005_round_1",
+          "label": "Tiny Giant",
+          "durationMs": 2200,
+          "pitch": [
+            390,
+            360,
+            300,
+            210,
+            150
+          ],
+          "energy": [
+            0.3,
+            0.45,
+            0.55,
+            0.75,
+            1
+          ],
+          "beats": [
+            0,
+            500,
+            1000,
+            1500
+          ],
+          "tones": [
+            390,
+            330,
+            260,
+            180
+          ],
+          "audioUrl": "https://raw.githubusercontent.com/walidrachad/demo_json/main/voice_party/audio/level_005.wav"
+        },
+        {
+          "id": "level_005_round_2",
+          "label": "Tiny Giant",
+          "durationMs": 2200,
+          "pitch": [
+            390,
+            360,
+            300,
+            210,
+            150
+          ],
+          "energy": [
+            0.3,
+            0.45,
+            0.55,
+            0.75,
+            1
+          ],
+          "beats": [
+            0,
+            500,
+            1000,
+            1500
+          ],
+          "tones": [
+            390,
+            330,
+            260,
+            180
+          ],
+          "audioUrl": "https://raw.githubusercontent.com/walidrachad/demo_json/main/voice_party/audio/level_005.wav"
+        },
+        {
+          "id": "level_005_round_3",
+          "label": "Tiny Giant",
+          "durationMs": 2200,
+          "pitch": [
+            390,
+            360,
+            300,
+            210,
+            150
+          ],
+          "energy": [
+            0.3,
+            0.45,
+            0.55,
+            0.75,
+            1
+          ],
+          "beats": [
+            0,
+            500,
+            1000,
+            1500
+          ],
+          "tones": [
+            390,
+            330,
+            260,
+            180
+          ],
+          "audioUrl": "https://raw.githubusercontent.com/walidrachad/demo_json/main/voice_party/audio/level_005.wav"
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "world": "funny",
+      "rounds": [
+        {
+          "id": "level_006_round_1",
+          "label": "Chaos Combo",
+          "durationMs": 2600,
+          "pitch": [
+            180,
+            360,
+            220,
+            420,
+            250,
+            330
+          ],
+          "energy": [
+            0.4,
+            0.9,
+            0.45,
+            1,
+            0.5,
+            0.8
+          ],
+          "beats": [
+            0,
+            330,
+            740,
+            1100,
+            1580,
+            2100
+          ],
+          "tones": [
+            180,
+            360,
+            220,
+            420,
+            250,
+            330
+          ],
+          "audioUrl": "https://raw.githubusercontent.com/walidrachad/demo_json/main/voice_party/audio/level_006.wav"
+        },
+        {
+          "id": "level_006_round_2",
+          "label": "Chaos Combo",
+          "durationMs": 2600,
+          "pitch": [
+            180,
+            360,
+            220,
+            420,
+            250,
+            330
+          ],
+          "energy": [
+            0.4,
+            0.9,
+            0.45,
+            1,
+            0.5,
+            0.8
+          ],
+          "beats": [
+            0,
+            330,
+            740,
+            1100,
+            1580,
+            2100
+          ],
+          "tones": [
+            180,
+            360,
+            220,
+            420,
+            250,
+            330
+          ],
+          "audioUrl": "https://raw.githubusercontent.com/walidrachad/demo_json/main/voice_party/audio/level_006.wav"
+        },
+        {
+          "id": "level_006_round_3",
+          "label": "Chaos Combo",
+          "durationMs": 2600,
+          "pitch": [
+            180,
+            360,
+            220,
+            420,
+            250,
+            330
+          ],
+          "energy": [
+            0.4,
+            0.9,
+            0.45,
+            1,
+            0.5,
+            0.8
+          ],
+          "beats": [
+            0,
+            330,
+            740,
+            1100,
+            1580,
+            2100
+          ],
+          "tones": [
+            180,
+            360,
+            220,
+            420,
+            250,
+            330
+          ],
+          "audioUrl": "https://raw.githubusercontent.com/walidrachad/demo_json/main/voice_party/audio/level_006.wav"
+        }
+      ]
+    },
+    {
+      "level": 7,
+      "world": "funny",
+      "rounds": [
+        {
+          "id": "level_007_round_1",
+          "label": "Boing Pop",
+          "durationMs": 1800,
+          "pitch": [
+            220,
+            260,
+            330,
+            260,
+            210
+          ],
+          "energy": [
+            0.25,
+            0.75,
+            1,
+            0.55,
+            0.25
+          ],
+          "beats": [
+            0,
+            420,
+            900,
+            1320
+          ],
+          "tones": [
+            220,
+            330,
+            260,
+            420
+          ],
+          "audioUrl": "https://raw.githubusercontent.com/walidrachad/demo_json/main/voice_party/audio/level_007.wav"
+        },
+        {
+          "id": "level_007_round_2",
+          "label": "Boing Pop",
+          "durationMs": 1800,
+          "pitch": [
+            220,
+            260,
+            330,
+            260,
+            210
+          ],
+          "energy": [
+            0.25,
+            0.75,
+            1,
+            0.55,
+            0.25
+          ],
+          "beats": [
+            0,
+            420,
+            900,
+            1320
+          ],
+          "tones": [
+            220,
+            330,
+            260,
+            420
+          ],
+          "audioUrl": "https://raw.githubusercontent.com/walidrachad/demo_json/main/voice_party/audio/level_007.wav"
+        },
+        {
+          "id": "level_007_round_3",
+          "label": "Boing Pop",
+          "durationMs": 1800,
+          "pitch": [
+            220,
+            260,
+            330,
+            260,
+            210
+          ],
+          "energy": [
+            0.25,
+            0.75,
+            1,
+            0.55,
+            0.25
+          ],
+          "beats": [
+            0,
+            420,
+            900,
+            1320
+          ],
+          "tones": [
+            220,
+            330,
+            260,
+            420
+          ],
+          "audioUrl": "https://raw.githubusercontent.com/walidrachad/demo_json/main/voice_party/audio/level_007.wav"
+        }
+      ]
+    },
+    {
+      "level": 8,
+      "world": "funny",
+      "rounds": [
+        {
+          "id": "level_008_round_1",
+          "label": "Wobble Wow",
+          "durationMs": 2100,
+          "pitch": [
+            190,
+            240,
+            300,
+            250,
+            320,
+            210
+          ],
+          "energy": [
+            0.3,
+            0.55,
+            0.85,
+            0.6,
+            0.9,
+            0.3
+          ],
+          "beats": [
+            0,
+            350,
+            760,
+            1210,
+            1650
+          ],
+          "tones": [
+            190,
+            240,
+            300,
+            250,
+            320
+          ],
+          "audioUrl": "https://raw.githubusercontent.com/walidrachad/demo_json/main/voice_party/audio/level_008.wav"
+        },
+        {
+          "id": "level_008_round_2",
+          "label": "Wobble Wow",
+          "durationMs": 2100,
+          "pitch": [
+            190,
+            240,
+            300,
+            250,
+            320,
+            210
+          ],
+          "energy": [
+            0.3,
+            0.55,
+            0.85,
+            0.6,
+            0.9,
+            0.3
+          ],
+          "beats": [
+            0,
+            350,
+            760,
+            1210,
+            1650
+          ],
+          "tones": [
+            190,
+            240,
+            300,
+            250,
+            320
+          ],
+          "audioUrl": "https://raw.githubusercontent.com/walidrachad/demo_json/main/voice_party/audio/level_008.wav"
+        },
+        {
+          "id": "level_008_round_3",
+          "label": "Wobble Wow",
+          "durationMs": 2100,
+          "pitch": [
+            190,
+            240,
+            300,
+            250,
+            320,
+            210
+          ],
+          "energy": [
+            0.3,
+            0.55,
+            0.85,
+            0.6,
+            0.9,
+            0.3
+          ],
+          "beats": [
+            0,
+            350,
+            760,
+            1210,
+            1650
+          ],
+          "tones": [
+            190,
+            240,
+            300,
+            250,
+            320
+          ],
+          "audioUrl": "https://raw.githubusercontent.com/walidrachad/demo_json/main/voice_party/audio/level_008.wav"
+        }
+      ]
+    },
+    {
+      "level": 9,
+      "world": "funny",
+      "rounds": [
+        {
+          "id": "level_009_round_1",
+          "label": "Brrr Bam",
+          "durationMs": 2000,
+          "pitch": [
+            140,
+            145,
+            150,
+            310,
+            180
+          ],
+          "energy": [
+            0.55,
+            0.6,
+            0.65,
+            1,
+            0.2
+          ],
+          "beats": [
+            0,
+            250,
+            500,
+            1200
+          ],
+          "tones": [
+            145,
+            145,
+            145,
+            420
+          ],
+          "audioUrl": "https://raw.githubusercontent.com/walidrachad/demo_json/main/voice_party/audio/level_009.wav"
+        },
+        {
+          "id": "level_009_round_2",
+          "label": "Brrr Bam",
+          "durationMs": 2000,
+          "pitch": [
+            140,
+            145,
+            150,
+            310,
+            180
+          ],
+          "energy": [
+            0.55,
+            0.6,
+            0.65,
+            1,
+            0.2
+          ],
+          "beats": [
+            0,
+            250,
+            500,
+            1200
+          ],
+          "tones": [
+            145,
+            145,
+            145,
+            420
+          ],
+          "audioUrl": "https://raw.githubusercontent.com/walidrachad/demo_json/main/voice_party/audio/level_009.wav"
+        },
+        {
+          "id": "level_009_round_3",
+          "label": "Brrr Bam",
+          "durationMs": 2000,
+          "pitch": [
+            140,
+            145,
+            150,
+            310,
+            180
+          ],
+          "energy": [
+            0.55,
+            0.6,
+            0.65,
+            1,
+            0.2
+          ],
+          "beats": [
+            0,
+            250,
+            500,
+            1200
+          ],
+          "tones": [
+            145,
+            145,
+            145,
+            420
+          ],
+          "audioUrl": "https://raw.githubusercontent.com/walidrachad/demo_json/main/voice_party/audio/level_009.wav"
+        }
+      ]
+    },
+    {
+      "level": 10,
+      "world": "funny",
+      "rounds": [
+        {
+          "id": "level_010_round_1",
+          "label": "Silly Siren",
+          "durationMs": 2400,
+          "pitch": [
+            210,
+            290,
+            370,
+            300,
+            230,
+            350
+          ],
+          "energy": [
+            0.35,
+            0.55,
+            0.75,
+            0.6,
+            0.45,
+            0.8
+          ],
+          "beats": [
+            0,
+            480,
+            960,
+            1440,
+            1920
+          ],
+          "tones": [
+            210,
+            290,
+            370,
+            300,
+            230
+          ],
+          "audioUrl": "https://raw.githubusercontent.com/walidrachad/demo_json/main/voice_party/audio/level_010.wav"
+        },
+        {
+          "id": "level_010_round_2",
+          "label": "Silly Siren",
+          "durationMs": 2400,
+          "pitch": [
+            210,
+            290,
+            370,
+            300,
+            230,
+            350
+          ],
+          "energy": [
+            0.35,
+            0.55,
+            0.75,
+            0.6,
+            0.45,
+            0.8
+          ],
+          "beats": [
+            0,
+            480,
+            960,
+            1440,
+            1920
+          ],
+          "tones": [
+            210,
+            290,
+            370,
+            300,
+            230
+          ],
+          "audioUrl": "https://raw.githubusercontent.com/walidrachad/demo_json/main/voice_party/audio/level_010.wav"
+        },
+        {
+          "id": "level_010_round_3",
+          "label": "Silly Siren",
+          "durationMs": 2400,
+          "pitch": [
+            210,
+            290,
+            370,
+            300,
+            230,
+            350
+          ],
+          "energy": [
+            0.35,
+            0.55,
+            0.75,
+            0.6,
+            0.45,
+            0.8
+          ],
+          "beats": [
+            0,
+            480,
+            960,
+            1440,
+            1920
+          ],
+          "tones": [
+            210,
+            290,
+            370,
+            300,
+            230
+          ],
+          "audioUrl": "https://raw.githubusercontent.com/walidrachad/demo_json/main/voice_party/audio/level_010.wav"
+        }
+      ]
+    },
+    {
+      "level": 11,
+      "world": "animals",
+      "rounds": [
+        {
+          "id": "level_011_round_1",
+          "label": "Owl Echo",
+          "durationMs": 2400,
+          "pitch": [
+            250,
+            340,
+            250,
+            340
+          ],
+          "energy": [
+            0.35,
+            0.85,
+            0.3,
+            0.8
+          ],
+          "beats": [
+            0,
+            620,
+            1250,
+            1870
+          ],
+          "tones": [
+            250,
+            340,
+            250,
+            340
+          ],
+          "audioUrl": "https://raw.githubusercontent.com/walidrachad/demo_json/main/voice_party/audio/level_011.wav"
+        },
+        {
+          "id": "level_011_round_2",
+          "label": "Owl Echo",
+          "durationMs": 2400,
+          "pitch": [
+            250,
+            340,
+            250,
+            340
+          ],
+          "energy": [
+            0.35,
+            0.85,
+            0.3,
+            0.8
+          ],
+          "beats": [
+            0,
+            620,
+            1250,
+            1870
+          ],
+          "tones": [
+            250,
+            340,
+            250,
+            340
+          ],
+          "audioUrl": "https://raw.githubusercontent.com/walidrachad/demo_json/main/voice_party/audio/level_011.wav"
+        },
+        {
+          "id": "level_011_round_3",
+          "label": "Owl Echo",
+          "durationMs": 2400,
+          "pitch": [
+            250,
+            340,
+            250,
+            340
+          ],
+          "energy": [
+            0.35,
+            0.85,
+            0.3,
+            0.8
+          ],
+          "beats": [
+            0,
+            620,
+            1250,
+            1870
+          ],
+          "tones": [
+            250,
+            340,
+            250,
+            340
+          ],
+          "audioUrl": "https://raw.githubusercontent.com/walidrachad/demo_json/main/voice_party/audio/level_011.wav"
+        }
+      ]
+    },
+    {
+      "level": 12,
+      "world": "animals",
+      "rounds": [
+        {
+          "id": "level_012_round_1",
+          "label": "Jungle Mix",
+          "durationMs": 2800,
+          "pitch": [
+            170,
+            330,
+            220,
+            390,
+            180,
+            300
+          ],
+          "energy": [
+            0.4,
+            0.85,
+            0.45,
+            0.95,
+            0.4,
+            0.8
+          ],
+          "beats": [
+            0,
+            400,
+            820,
+            1260,
+            1780,
+            2300
+          ],
+          "tones": [
+            170,
+            330,
+            220,
+            390,
+            180,
+            300
+          ],
+          "audioUrl": "https://raw.githubusercontent.com/walidrachad/demo_json/main/voice_party/audio/level_012.wav"
+        },
+        {
+          "id": "level_012_round_2",
+          "label": "Jungle Mix",
+          "durationMs": 2800,
+          "pitch": [
+            170,
+            330,
+            220,
+            390,
+            180,
+            300
+          ],
+          "energy": [
+            0.4,
+            0.85,
+            0.45,
+            0.95,
+            0.4,
+            0.8
+          ],
+          "beats": [
+            0,
+            400,
+            820,
+            1260,
+            1780,
+            2300
+          ],
+          "tones": [
+            170,
+            330,
+            220,
+            390,
+            180,
+            300
+          ],
+          "audioUrl": "https://raw.githubusercontent.com/walidrachad/demo_json/main/voice_party/audio/level_012.wav"
+        },
+        {
+          "id": "level_012_round_3",
+          "label": "Jungle Mix",
+          "durationMs": 2800,
+          "pitch": [
+            170,
+            330,
+            220,
+            390,
+            180,
+            300
+          ],
+          "energy": [
+            0.4,
+            0.85,
+            0.45,
+            0.95,
+            0.4,
+            0.8
+          ],
+          "beats": [
+            0,
+            400,
+            820,
+            1260,
+            1780,
+            2300
+          ],
+          "tones": [
+            170,
+            330,
+            220,
+            390,
+            180,
+            300
+          ],
+          "audioUrl": "https://raw.githubusercontent.com/walidrachad/demo_json/main/voice_party/audio/level_012.wav"
+        }
+      ]
+    },
+    {
+      "level": 13,
+      "world": "animals",
+      "rounds": [
+        {
+          "id": "level_013_round_1",
+          "label": "Kitty Chirp",
+          "durationMs": 1700,
+          "pitch": [
+            430,
+            470,
+            420,
+            510
+          ],
+          "energy": [
+            0.25,
+            0.65,
+            0.4,
+            0.8
+          ],
+          "beats": [
+            0,
+            520,
+            1060
+          ],
+          "tones": [
+            430,
+            470,
+            420
+          ],
+          "audioUrl": "https://raw.githubusercontent.com/walidrachad/demo_json/main/voice_party/audio/level_013.wav"
+        },
+        {
+          "id": "level_013_round_2",
+          "label": "Kitty Chirp",
+          "durationMs": 1700,
+          "pitch": [
+            430,
+            470,
+            420,
+            510
+          ],
+          "energy": [
+            0.25,
+            0.65,
+            0.4,
+            0.8
+          ],
+          "beats": [
+            0,
+            520,
+            1060
+          ],
+          "tones": [
+            430,
+            470,
+            420
+          ],
+          "audioUrl": "https://raw.githubusercontent.com/walidrachad/demo_json/main/voice_party/audio/level_013.wav"
+        },
+        {
+          "id": "level_013_round_3",
+          "label": "Kitty Chirp",
+          "durationMs": 1700,
+          "pitch": [
+            430,
+            470,
+            420,
+            510
+          ],
+          "energy": [
+            0.25,
+            0.65,
+            0.4,
+            0.8
+          ],
+          "beats": [
+            0,
+            520,
+            1060
+          ],
+          "tones": [
+            430,
+            470,
+            420
+          ],
+          "audioUrl": "https://raw.githubusercontent.com/walidrachad/demo_json/main/voice_party/audio/level_013.wav"
+        }
+      ]
+    },
+    {
+      "level": 14,
+      "world": "animals",
+      "rounds": [
+        {
+          "id": "level_014_round_1",
+          "label": "Frog Bounce",
+          "durationMs": 2000,
+          "pitch": [
+            180,
+            230,
+            180,
+            250,
+            180
+          ],
+          "energy": [
+            0.45,
+            0.8,
+            0.4,
+            0.9,
+            0.35
+          ],
+          "beats": [
+            0,
+            430,
+            900,
+            1370
+          ],
+          "tones": [
+            180,
+            230,
+            180,
+            250
+          ],
+          "audioUrl": "https://raw.githubusercontent.com/walidrachad/demo_json/main/voice_party/audio/level_014.wav"
+        },
+        {
+          "id": "level_014_round_2",
+          "label": "Frog Bounce",
+          "durationMs": 2000,
+          "pitch": [
+            180,
+            230,
+            180,
+            250,
+            180
+          ],
+          "energy": [
+            0.45,
+            0.8,
+            0.4,
+            0.9,
+            0.35
+          ],
+          "beats": [
+            0,
+            430,
+            900,
+            1370
+          ],
+          "tones": [
+            180,
+            230,
+            180,
+            250
+          ],
+          "audioUrl": "https://raw.githubusercontent.com/walidrachad/demo_json/main/voice_party/audio/level_014.wav"
+        },
+        {
+          "id": "level_014_round_3",
+          "label": "Frog Bounce",
+          "durationMs": 2000,
+          "pitch": [
+            180,
+            230,
+            180,
+            250,
+            180
+          ],
+          "energy": [
+            0.45,
+            0.8,
+            0.4,
+            0.9,
+            0.35
+          ],
+          "beats": [
+            0,
+            430,
+            900,
+            1370
+          ],
+          "tones": [
+            180,
+            230,
+            180,
+            250
+          ],
+          "audioUrl": "https://raw.githubusercontent.com/walidrachad/demo_json/main/voice_party/audio/level_014.wav"
+        }
+      ]
+    },
+    {
+      "level": 15,
+      "world": "animals",
+      "rounds": [
+        {
+          "id": "level_015_round_1",
+          "label": "Monkey Beat",
+          "durationMs": 2300,
+          "pitch": [
+            260,
+            320,
+            280,
+            350,
+            300
+          ],
+          "energy": [
+            0.55,
+            0.9,
+            0.5,
+            0.85,
+            0.6
+          ],
+          "beats": [
+            0,
+            300,
+            650,
+            1000,
+            1480,
+            1900
+          ],
+          "tones": [
+            260,
+            320,
+            280,
+            350,
+            300
+          ],
+          "audioUrl": "https://raw.githubusercontent.com/walidrachad/demo_json/main/voice_party/audio/level_015.wav"
+        },
+        {
+          "id": "level_015_round_2",
+          "label": "Monkey Beat",
+          "durationMs": 2300,
+          "pitch": [
+            260,
+            320,
+            280,
+            350,
+            300
+          ],
+          "energy": [
+            0.55,
+            0.9,
+            0.5,
+            0.85,
+            0.6
+          ],
+          "beats": [
+            0,
+            300,
+            650,
+            1000,
+            1480,
+            1900
+          ],
+          "tones": [
+            260,
+            320,
+            280,
+            350,
+            300
+          ],
+          "audioUrl": "https://raw.githubusercontent.com/walidrachad/demo_json/main/voice_party/audio/level_015.wav"
+        },
+        {
+          "id": "level_015_round_3",
+          "label": "Monkey Beat",
+          "durationMs": 2300,
+          "pitch": [
+            260,
+            320,
+            280,
+            350,
+            300
+          ],
+          "energy": [
+            0.55,
+            0.9,
+            0.5,
+            0.85,
+            0.6
+          ],
+          "beats": [
+            0,
+            300,
+            650,
+            1000,
+            1480,
+            1900
+          ],
+          "tones": [
+            260,
+            320,
+            280,
+            350,
+            300
+          ],
+          "audioUrl": "https://raw.githubusercontent.com/walidrachad/demo_json/main/voice_party/audio/level_015.wav"
+        }
+      ]
+    },
+    {
+      "level": 16,
+      "world": "animals",
+      "rounds": [
+        {
+          "id": "level_016_round_1",
+          "label": "Lion Roar",
+          "durationMs": 2500,
+          "pitch": [
+            120,
+            130,
+            145,
+            160,
+            130
+          ],
+          "energy": [
+            0.45,
+            0.7,
+            0.95,
+            1,
+            0.55
+          ],
+          "beats": [
+            0,
+            700,
+            1450,
+            2050
+          ],
+          "tones": [
+            120,
+            130,
+            145,
+            160
+          ],
+          "audioUrl": "https://raw.githubusercontent.com/walidrachad/demo_json/main/voice_party/audio/level_016.wav"
+        },
+        {
+          "id": "level_016_round_2",
+          "label": "Lion Roar",
+          "durationMs": 2500,
+          "pitch": [
+            120,
+            130,
+            145,
+            160,
+            130
+          ],
+          "energy": [
+            0.45,
+            0.7,
+            0.95,
+            1,
+            0.55
+          ],
+          "beats": [
+            0,
+            700,
+            1450,
+            2050
+          ],
+          "tones": [
+            120,
+            130,
+            145,
+            160
+          ],
+          "audioUrl": "https://raw.githubusercontent.com/walidrachad/demo_json/main/voice_party/audio/level_016.wav"
+        },
+        {
+          "id": "level_016_round_3",
+          "label": "Lion Roar",
+          "durationMs": 2500,
+          "pitch": [
+            120,
+            130,
+            145,
+            160,
+            130
+          ],
+          "energy": [
+            0.45,
+            0.7,
+            0.95,
+            1,
+            0.55
+          ],
+          "beats": [
+            0,
+            700,
+            1450,
+            2050
+          ],
+          "tones": [
+            120,
+            130,
+            145,
+            160
+          ],
+          "audioUrl": "https://raw.githubusercontent.com/walidrachad/demo_json/main/voice_party/audio/level_016.wav"
+        }
+      ]
+    },
+    {
+      "level": 17,
+      "world": "animals",
+      "rounds": [
+        {
+          "id": "level_017_round_1",
+          "label": "Owl Echo",
+          "durationMs": 2400,
+          "pitch": [
+            250,
+            340,
+            250,
+            340
+          ],
+          "energy": [
+            0.35,
+            0.85,
+            0.3,
+            0.8
+          ],
+          "beats": [
+            0,
+            620,
+            1250,
+            1870
+          ],
+          "tones": [
+            250,
+            340,
+            250,
+            340
+          ],
+          "audioUrl": "https://raw.githubusercontent.com/walidrachad/demo_json/main/voice_party/audio/level_017.wav"
+        },
+        {
+          "id": "level_017_round_2",
+          "label": "Owl Echo",
+          "durationMs": 2400,
+          "pitch": [
+            250,
+            340,
+            250,
+            340
+          ],
+          "energy": [
+            0.35,
+            0.85,
+            0.3,
+            0.8
+          ],
+          "beats": [
+            0,
+            620,
+            1250,
+            1870
+          ],
+          "tones": [
+            250,
+            340,
+            250,
+            340
+          ],
+          "audioUrl": "https://raw.githubusercontent.com/walidrachad/demo_json/main/voice_party/audio/level_017.wav"
+        },
+        {
+          "id": "level_017_round_3",
+          "label": "Owl Echo",
+          "durationMs": 2400,
+          "pitch": [
+            250,
+            340,
+            250,
+            340
+          ],
+          "energy": [
+            0.35,
+            0.85,
+            0.3,
+            0.8
+          ],
+          "beats": [
+            0,
+            620,
+            1250,
+            1870
+          ],
+          "tones": [
+            250,
+            340,
+            250,
+            340
+          ],
+          "audioUrl": "https://raw.githubusercontent.com/walidrachad/demo_json/main/voice_party/audio/level_017.wav"
+        }
+      ]
+    },
+    {
+      "level": 18,
+      "world": "animals",
+      "rounds": [
+        {
+          "id": "level_018_round_1",
+          "label": "Jungle Mix",
+          "durationMs": 2800,
+          "pitch": [
+            170,
+            330,
+            220,
+            390,
+            180,
+            300
+          ],
+          "energy": [
+            0.4,
+            0.85,
+            0.45,
+            0.95,
+            0.4,
+            0.8
+          ],
+          "beats": [
+            0,
+            400,
+            820,
+            1260,
+            1780,
+            2300
+          ],
+          "tones": [
+            170,
+            330,
+            220,
+            390,
+            180,
+            300
+          ],
+          "audioUrl": "https://raw.githubusercontent.com/walidrachad/demo_json/main/voice_party/audio/level_018.wav"
+        },
+        {
+          "id": "level_018_round_2",
+          "label": "Jungle Mix",
+          "durationMs": 2800,
+          "pitch": [
+            170,
+            330,
+            220,
+            390,
+            180,
+            300
+          ],
+          "energy": [
+            0.4,
+            0.85,
+            0.45,
+            0.95,
+            0.4,
+            0.8
+          ],
+          "beats": [
+            0,
+            400,
+            820,
+            1260,
+            1780,
+            2300
+          ],
+          "tones": [
+            170,
+            330,
+            220,
+            390,
+            180,
+            300
+          ],
+          "audioUrl": "https://raw.githubusercontent.com/walidrachad/demo_json/main/voice_party/audio/level_018.wav"
+        },
+        {
+          "id": "level_018_round_3",
+          "label": "Jungle Mix",
+          "durationMs": 2800,
+          "pitch": [
+            170,
+            330,
+            220,
+            390,
+            180,
+            300
+          ],
+          "energy": [
+            0.4,
+            0.85,
+            0.45,
+            0.95,
+            0.4,
+            0.8
+          ],
+          "beats": [
+            0,
+            400,
+            820,
+            1260,
+            1780,
+            2300
+          ],
+          "tones": [
+            170,
+            330,
+            220,
+            390,
+            180,
+            300
+          ],
+          "audioUrl": "https://raw.githubusercontent.com/walidrachad/demo_json/main/voice_party/audio/level_018.wav"
+        }
+      ]
+    },
+    {
+      "level": 19,
+      "world": "animals",
+      "rounds": [
+        {
+          "id": "level_019_round_1",
+          "label": "Kitty Chirp",
+          "durationMs": 1700,
+          "pitch": [
+            430,
+            470,
+            420,
+            510
+          ],
+          "energy": [
+            0.25,
+            0.65,
+            0.4,
+            0.8
+          ],
+          "beats": [
+            0,
+            520,
+            1060
+          ],
+          "tones": [
+            430,
+            470,
+            420
+          ],
+          "audioUrl": "https://raw.githubusercontent.com/walidrachad/demo_json/main/voice_party/audio/level_019.wav"
+        },
+        {
+          "id": "level_019_round_2",
+          "label": "Kitty Chirp",
+          "durationMs": 1700,
+          "pitch": [
+            430,
+            470,
+            420,
+            510
+          ],
+          "energy": [
+            0.25,
+            0.65,
+            0.4,
+            0.8
+          ],
+          "beats": [
+            0,
+            520,
+            1060
+          ],
+          "tones": [
+            430,
+            470,
+            420
+          ],
+          "audioUrl": "https://raw.githubusercontent.com/walidrachad/demo_json/main/voice_party/audio/level_019.wav"
+        },
+        {
+          "id": "level_019_round_3",
+          "label": "Kitty Chirp",
+          "durationMs": 1700,
+          "pitch": [
+            430,
+            470,
+            420,
+            510
+          ],
+          "energy": [
+            0.25,
+            0.65,
+            0.4,
+            0.8
+          ],
+          "beats": [
+            0,
+            520,
+            1060
+          ],
+          "tones": [
+            430,
+            470,
+            420
+          ],
+          "audioUrl": "https://raw.githubusercontent.com/walidrachad/demo_json/main/voice_party/audio/level_019.wav"
+        }
+      ]
+    },
+    {
+      "level": 20,
+      "world": "animals",
+      "rounds": [
+        {
+          "id": "level_020_round_1",
+          "label": "Frog Bounce",
+          "durationMs": 2000,
+          "pitch": [
+            180,
+            230,
+            180,
+            250,
+            180
+          ],
+          "energy": [
+            0.45,
+            0.8,
+            0.4,
+            0.9,
+            0.35
+          ],
+          "beats": [
+            0,
+            430,
+            900,
+            1370
+          ],
+          "tones": [
+            180,
+            230,
+            180,
+            250
+          ],
+          "audioUrl": "https://raw.githubusercontent.com/walidrachad/demo_json/main/voice_party/audio/level_020.wav"
+        },
+        {
+          "id": "level_020_round_2",
+          "label": "Frog Bounce",
+          "durationMs": 2000,
+          "pitch": [
+            180,
+            230,
+            180,
+            250,
+            180
+          ],
+          "energy": [
+            0.45,
+            0.8,
+            0.4,
+            0.9,
+            0.35
+          ],
+          "beats": [
+            0,
+            430,
+            900,
+            1370
+          ],
+          "tones": [
+            180,
+            230,
+            180,
+            250
+          ],
+          "audioUrl": "https://raw.githubusercontent.com/walidrachad/demo_json/main/voice_party/audio/level_020.wav"
+        },
+        {
+          "id": "level_020_round_3",
+          "label": "Frog Bounce",
+          "durationMs": 2000,
+          "pitch": [
+            180,
+            230,
+            180,
+            250,
+            180
+          ],
+          "energy": [
+            0.45,
+            0.8,
+            0.4,
+            0.9,
+            0.35
+          ],
+          "beats": [
+            0,
+            430,
+            900,
+            1370
+          ],
+          "tones": [
+            180,
+            230,
+            180,
+            250
+          ],
+          "audioUrl": "https://raw.githubusercontent.com/walidrachad/demo_json/main/voice_party/audio/level_020.wav"
+        }
+      ]
+    },
+    {
+      "level": 21,
+      "world": "robots",
+      "rounds": [
+        {
+          "id": "level_021_round_1",
+          "label": "Error Buzz",
+          "durationMs": 2100,
+          "pitch": [
+            150,
+            150,
+            440,
+            150,
+            440
+          ],
+          "energy": [
+            0.6,
+            0.6,
+            1,
+            0.55,
+            0.95
+          ],
+          "beats": [
+            0,
+            280,
+            760,
+            1260,
+            1700
+          ],
+          "tones": [
+            150,
+            150,
+            440,
+            150,
+            440
+          ],
+          "audioUrl": "https://raw.githubusercontent.com/walidrachad/demo_json/main/voice_party/audio/level_021.wav"
+        },
+        {
+          "id": "level_021_round_2",
+          "label": "Error Buzz",
+          "durationMs": 2100,
+          "pitch": [
+            150,
+            150,
+            440,
+            150,
+            440
+          ],
+          "energy": [
+            0.6,
+            0.6,
+            1,
+            0.55,
+            0.95
+          ],
+          "beats": [
+            0,
+            280,
+            760,
+            1260,
+            1700
+          ],
+          "tones": [
+            150,
+            150,
+            440,
+            150,
+            440
+          ],
+          "audioUrl": "https://raw.githubusercontent.com/walidrachad/demo_json/main/voice_party/audio/level_021.wav"
+        },
+        {
+          "id": "level_021_round_3",
+          "label": "Error Buzz",
+          "durationMs": 2100,
+          "pitch": [
+            150,
+            150,
+            440,
+            150,
+            440
+          ],
+          "energy": [
+            0.6,
+            0.6,
+            1,
+            0.55,
+            0.95
+          ],
+          "beats": [
+            0,
+            280,
+            760,
+            1260,
+            1700
+          ],
+          "tones": [
+            150,
+            150,
+            440,
+            150,
+            440
+          ],
+          "audioUrl": "https://raw.githubusercontent.com/walidrachad/demo_json/main/voice_party/audio/level_021.wav"
+        }
+      ]
+    },
+    {
+      "level": 22,
+      "world": "robots",
+      "rounds": [
+        {
+          "id": "level_022_round_1",
+          "label": "Turbo Bot",
+          "durationMs": 2400,
+          "pitch": [
+            260,
+            310,
+            360,
+            410,
+            360,
+            310
+          ],
+          "energy": [
+            0.4,
+            0.55,
+            0.75,
+            0.95,
+            0.7,
+            0.5
+          ],
+          "beats": [
+            0,
+            360,
+            720,
+            1080,
+            1500,
+            1950
+          ],
+          "tones": [
+            260,
+            310,
+            360,
+            410,
+            360,
+            310
+          ],
+          "audioUrl": "https://raw.githubusercontent.com/walidrachad/demo_json/main/voice_party/audio/level_022.wav"
+        },
+        {
+          "id": "level_022_round_2",
+          "label": "Turbo Bot",
+          "durationMs": 2400,
+          "pitch": [
+            260,
+            310,
+            360,
+            410,
+            360,
+            310
+          ],
+          "energy": [
+            0.4,
+            0.55,
+            0.75,
+            0.95,
+            0.7,
+            0.5
+          ],
+          "beats": [
+            0,
+            360,
+            720,
+            1080,
+            1500,
+            1950
+          ],
+          "tones": [
+            260,
+            310,
+            360,
+            410,
+            360,
+            310
+          ],
+          "audioUrl": "https://raw.githubusercontent.com/walidrachad/demo_json/main/voice_party/audio/level_022.wav"
+        },
+        {
+          "id": "level_022_round_3",
+          "label": "Turbo Bot",
+          "durationMs": 2400,
+          "pitch": [
+            260,
+            310,
+            360,
+            410,
+            360,
+            310
+          ],
+          "energy": [
+            0.4,
+            0.55,
+            0.75,
+            0.95,
+            0.7,
+            0.5
+          ],
+          "beats": [
+            0,
+            360,
+            720,
+            1080,
+            1500,
+            1950
+          ],
+          "tones": [
+            260,
+            310,
+            360,
+            410,
+            360,
+            310
+          ],
+          "audioUrl": "https://raw.githubusercontent.com/walidrachad/demo_json/main/voice_party/audio/level_022.wav"
+        }
+      ]
+    },
+    {
+      "level": 23,
+      "world": "robots",
+      "rounds": [
+        {
+          "id": "level_023_round_1",
+          "label": "Glitch Dance",
+          "durationMs": 2600,
+          "pitch": [
+            210,
+            410,
+            240,
+            460,
+            280,
+            390
+          ],
+          "energy": [
+            0.35,
+            0.95,
+            0.4,
+            1,
+            0.45,
+            0.85
+          ],
+          "beats": [
+            0,
+            300,
+            680,
+            1020,
+            1460,
+            2040
+          ],
+          "tones": [
+            210,
+            410,
+            240,
+            460,
+            280,
+            390
+          ],
+          "audioUrl": "https://raw.githubusercontent.com/walidrachad/demo_json/main/voice_party/audio/level_023.wav"
+        },
+        {
+          "id": "level_023_round_2",
+          "label": "Glitch Dance",
+          "durationMs": 2600,
+          "pitch": [
+            210,
+            410,
+            240,
+            460,
+            280,
+            390
+          ],
+          "energy": [
+            0.35,
+            0.95,
+            0.4,
+            1,
+            0.45,
+            0.85
+          ],
+          "beats": [
+            0,
+            300,
+            680,
+            1020,
+            1460,
+            2040
+          ],
+          "tones": [
+            210,
+            410,
+            240,
+            460,
+            280,
+            390
+          ],
+          "audioUrl": "https://raw.githubusercontent.com/walidrachad/demo_json/main/voice_party/audio/level_023.wav"
+        },
+        {
+          "id": "level_023_round_3",
+          "label": "Glitch Dance",
+          "durationMs": 2600,
+          "pitch": [
+            210,
+            410,
+            240,
+            460,
+            280,
+            390
+          ],
+          "energy": [
+            0.35,
+            0.95,
+            0.4,
+            1,
+            0.45,
+            0.85
+          ],
+          "beats": [
+            0,
+            300,
+            680,
+            1020,
+            1460,
+            2040
+          ],
+          "tones": [
+            210,
+            410,
+            240,
+            460,
+            280,
+            390
+          ],
+          "audioUrl": "https://raw.githubusercontent.com/walidrachad/demo_json/main/voice_party/audio/level_023.wav"
+        }
+      ]
+    },
+    {
+      "level": 24,
+      "world": "robots",
+      "rounds": [
+        {
+          "id": "level_024_round_1",
+          "label": "Boss Protocol",
+          "durationMs": 3000,
+          "pitch": [
+            170,
+            280,
+            430,
+            220,
+            500,
+            320,
+            190
+          ],
+          "energy": [
+            0.45,
+            0.6,
+            0.95,
+            0.5,
+            1,
+            0.75,
+            0.4
+          ],
+          "beats": [
+            0,
+            380,
+            760,
+            1180,
+            1600,
+            2050,
+            2500
+          ],
+          "tones": [
+            170,
+            280,
+            430,
+            220,
+            500,
+            320,
+            190
+          ],
+          "audioUrl": "https://raw.githubusercontent.com/walidrachad/demo_json/main/voice_party/audio/level_024.wav"
+        },
+        {
+          "id": "level_024_round_2",
+          "label": "Boss Protocol",
+          "durationMs": 3000,
+          "pitch": [
+            170,
+            280,
+            430,
+            220,
+            500,
+            320,
+            190
+          ],
+          "energy": [
+            0.45,
+            0.6,
+            0.95,
+            0.5,
+            1,
+            0.75,
+            0.4
+          ],
+          "beats": [
+            0,
+            380,
+            760,
+            1180,
+            1600,
+            2050,
+            2500
+          ],
+          "tones": [
+            170,
+            280,
+            430,
+            220,
+            500,
+            320,
+            190
+          ],
+          "audioUrl": "https://raw.githubusercontent.com/walidrachad/demo_json/main/voice_party/audio/level_024.wav"
+        },
+        {
+          "id": "level_024_round_3",
+          "label": "Boss Protocol",
+          "durationMs": 3000,
+          "pitch": [
+            170,
+            280,
+            430,
+            220,
+            500,
+            320,
+            190
+          ],
+          "energy": [
+            0.45,
+            0.6,
+            0.95,
+            0.5,
+            1,
+            0.75,
+            0.4
+          ],
+          "beats": [
+            0,
+            380,
+            760,
+            1180,
+            1600,
+            2050,
+            2500
+          ],
+          "tones": [
+            170,
+            280,
+            430,
+            220,
+            500,
+            320,
+            190
+          ],
+          "audioUrl": "https://raw.githubusercontent.com/walidrachad/demo_json/main/voice_party/audio/level_024.wav"
+        }
+      ]
+    },
+    {
+      "level": 25,
+      "world": "robots",
+      "rounds": [
+        {
+          "id": "level_025_round_1",
+          "label": "Beep Boop",
+          "durationMs": 1800,
+          "pitch": [
+            260,
+            390,
+            260,
+            520
+          ],
+          "energy": [
+            0.45,
+            0.75,
+            0.45,
+            0.85
+          ],
+          "beats": [
+            0,
+            450,
+            900,
+            1350
+          ],
+          "tones": [
+            260,
+            390,
+            260,
+            520
+          ],
+          "audioUrl": "https://raw.githubusercontent.com/walidrachad/demo_json/main/voice_party/audio/level_025.wav"
+        },
+        {
+          "id": "level_025_round_2",
+          "label": "Beep Boop",
+          "durationMs": 1800,
+          "pitch": [
+            260,
+            390,
+            260,
+            520
+          ],
+          "energy": [
+            0.45,
+            0.75,
+            0.45,
+            0.85
+          ],
+          "beats": [
+            0,
+            450,
+            900,
+            1350
+          ],
+          "tones": [
+            260,
+            390,
+            260,
+            520
+          ],
+          "audioUrl": "https://raw.githubusercontent.com/walidrachad/demo_json/main/voice_party/audio/level_025.wav"
+        },
+        {
+          "id": "level_025_round_3",
+          "label": "Beep Boop",
+          "durationMs": 1800,
+          "pitch": [
+            260,
+            390,
+            260,
+            520
+          ],
+          "energy": [
+            0.45,
+            0.75,
+            0.45,
+            0.85
+          ],
+          "beats": [
+            0,
+            450,
+            900,
+            1350
+          ],
+          "tones": [
+            260,
+            390,
+            260,
+            520
+          ],
+          "audioUrl": "https://raw.githubusercontent.com/walidrachad/demo_json/main/voice_party/audio/level_025.wav"
+        }
+      ]
+    },
+    {
+      "level": 26,
+      "world": "robots",
+      "rounds": [
+        {
+          "id": "level_026_round_1",
+          "label": "Laser Sweep",
+          "durationMs": 2200,
+          "pitch": [
+            180,
+            230,
+            300,
+            390,
+            500
+          ],
+          "energy": [
+            0.3,
+            0.4,
+            0.55,
+            0.7,
+            0.9
+          ],
+          "beats": [
+            0,
+            550,
+            1100,
+            1650
+          ],
+          "tones": [
+            180,
+            230,
+            300,
+            390,
+            500
+          ],
+          "audioUrl": "https://raw.githubusercontent.com/walidrachad/demo_json/main/voice_party/audio/level_026.wav"
+        },
+        {
+          "id": "level_026_round_2",
+          "label": "Laser Sweep",
+          "durationMs": 2200,
+          "pitch": [
+            180,
+            230,
+            300,
+            390,
+            500
+          ],
+          "energy": [
+            0.3,
+            0.4,
+            0.55,
+            0.7,
+            0.9
+          ],
+          "beats": [
+            0,
+            550,
+            1100,
+            1650
+          ],
+          "tones": [
+            180,
+            230,
+            300,
+            390,
+            500
+          ],
+          "audioUrl": "https://raw.githubusercontent.com/walidrachad/demo_json/main/voice_party/audio/level_026.wav"
+        },
+        {
+          "id": "level_026_round_3",
+          "label": "Laser Sweep",
+          "durationMs": 2200,
+          "pitch": [
+            180,
+            230,
+            300,
+            390,
+            500
+          ],
+          "energy": [
+            0.3,
+            0.4,
+            0.55,
+            0.7,
+            0.9
+          ],
+          "beats": [
+            0,
+            550,
+            1100,
+            1650
+          ],
+          "tones": [
+            180,
+            230,
+            300,
+            390,
+            500
+          ],
+          "audioUrl": "https://raw.githubusercontent.com/walidrachad/demo_json/main/voice_party/audio/level_026.wav"
+        }
+      ]
+    },
+    {
+      "level": 27,
+      "world": "robots",
+      "rounds": [
+        {
+          "id": "level_027_round_1",
+          "label": "Error Buzz",
+          "durationMs": 2100,
+          "pitch": [
+            150,
+            150,
+            440,
+            150,
+            440
+          ],
+          "energy": [
+            0.6,
+            0.6,
+            1,
+            0.55,
+            0.95
+          ],
+          "beats": [
+            0,
+            280,
+            760,
+            1260,
+            1700
+          ],
+          "tones": [
+            150,
+            150,
+            440,
+            150,
+            440
+          ],
+          "audioUrl": "https://raw.githubusercontent.com/walidrachad/demo_json/main/voice_party/audio/level_027.wav"
+        },
+        {
+          "id": "level_027_round_2",
+          "label": "Error Buzz",
+          "durationMs": 2100,
+          "pitch": [
+            150,
+            150,
+            440,
+            150,
+            440
+          ],
+          "energy": [
+            0.6,
+            0.6,
+            1,
+            0.55,
+            0.95
+          ],
+          "beats": [
+            0,
+            280,
+            760,
+            1260,
+            1700
+          ],
+          "tones": [
+            150,
+            150,
+            440,
+            150,
+            440
+          ],
+          "audioUrl": "https://raw.githubusercontent.com/walidrachad/demo_json/main/voice_party/audio/level_027.wav"
+        },
+        {
+          "id": "level_027_round_3",
+          "label": "Error Buzz",
+          "durationMs": 2100,
+          "pitch": [
+            150,
+            150,
+            440,
+            150,
+            440
+          ],
+          "energy": [
+            0.6,
+            0.6,
+            1,
+            0.55,
+            0.95
+          ],
+          "beats": [
+            0,
+            280,
+            760,
+            1260,
+            1700
+          ],
+          "tones": [
+            150,
+            150,
+            440,
+            150,
+            440
+          ],
+          "audioUrl": "https://raw.githubusercontent.com/walidrachad/demo_json/main/voice_party/audio/level_027.wav"
+        }
+      ]
+    },
+    {
+      "level": 28,
+      "world": "robots",
+      "rounds": [
+        {
+          "id": "level_028_round_1",
+          "label": "Turbo Bot",
+          "durationMs": 2400,
+          "pitch": [
+            260,
+            310,
+            360,
+            410,
+            360,
+            310
+          ],
+          "energy": [
+            0.4,
+            0.55,
+            0.75,
+            0.95,
+            0.7,
+            0.5
+          ],
+          "beats": [
+            0,
+            360,
+            720,
+            1080,
+            1500,
+            1950
+          ],
+          "tones": [
+            260,
+            310,
+            360,
+            410,
+            360,
+            310
+          ],
+          "audioUrl": "https://raw.githubusercontent.com/walidrachad/demo_json/main/voice_party/audio/level_028.wav"
+        },
+        {
+          "id": "level_028_round_2",
+          "label": "Turbo Bot",
+          "durationMs": 2400,
+          "pitch": [
+            260,
+            310,
+            360,
+            410,
+            360,
+            310
+          ],
+          "energy": [
+            0.4,
+            0.55,
+            0.75,
+            0.95,
+            0.7,
+            0.5
+          ],
+          "beats": [
+            0,
+            360,
+            720,
+            1080,
+            1500,
+            1950
+          ],
+          "tones": [
+            260,
+            310,
+            360,
+            410,
+            360,
+            310
+          ],
+          "audioUrl": "https://raw.githubusercontent.com/walidrachad/demo_json/main/voice_party/audio/level_028.wav"
+        },
+        {
+          "id": "level_028_round_3",
+          "label": "Turbo Bot",
+          "durationMs": 2400,
+          "pitch": [
+            260,
+            310,
+            360,
+            410,
+            360,
+            310
+          ],
+          "energy": [
+            0.4,
+            0.55,
+            0.75,
+            0.95,
+            0.7,
+            0.5
+          ],
+          "beats": [
+            0,
+            360,
+            720,
+            1080,
+            1500,
+            1950
+          ],
+          "tones": [
+            260,
+            310,
+            360,
+            410,
+            360,
+            310
+          ],
+          "audioUrl": "https://raw.githubusercontent.com/walidrachad/demo_json/main/voice_party/audio/level_028.wav"
+        }
+      ]
+    },
+    {
+      "level": 29,
+      "world": "robots",
+      "rounds": [
+        {
+          "id": "level_029_round_1",
+          "label": "Glitch Dance",
+          "durationMs": 2600,
+          "pitch": [
+            210,
+            410,
+            240,
+            460,
+            280,
+            390
+          ],
+          "energy": [
+            0.35,
+            0.95,
+            0.4,
+            1,
+            0.45,
+            0.85
+          ],
+          "beats": [
+            0,
+            300,
+            680,
+            1020,
+            1460,
+            2040
+          ],
+          "tones": [
+            210,
+            410,
+            240,
+            460,
+            280,
+            390
+          ],
+          "audioUrl": "https://raw.githubusercontent.com/walidrachad/demo_json/main/voice_party/audio/level_029.wav"
+        },
+        {
+          "id": "level_029_round_2",
+          "label": "Glitch Dance",
+          "durationMs": 2600,
+          "pitch": [
+            210,
+            410,
+            240,
+            460,
+            280,
+            390
+          ],
+          "energy": [
+            0.35,
+            0.95,
+            0.4,
+            1,
+            0.45,
+            0.85
+          ],
+          "beats": [
+            0,
+            300,
+            680,
+            1020,
+            1460,
+            2040
+          ],
+          "tones": [
+            210,
+            410,
+            240,
+            460,
+            280,
+            390
+          ],
+          "audioUrl": "https://raw.githubusercontent.com/walidrachad/demo_json/main/voice_party/audio/level_029.wav"
+        },
+        {
+          "id": "level_029_round_3",
+          "label": "Glitch Dance",
+          "durationMs": 2600,
+          "pitch": [
+            210,
+            410,
+            240,
+            460,
+            280,
+            390
+          ],
+          "energy": [
+            0.35,
+            0.95,
+            0.4,
+            1,
+            0.45,
+            0.85
+          ],
+          "beats": [
+            0,
+            300,
+            680,
+            1020,
+            1460,
+            2040
+          ],
+          "tones": [
+            210,
+            410,
+            240,
+            460,
+            280,
+            390
+          ],
+          "audioUrl": "https://raw.githubusercontent.com/walidrachad/demo_json/main/voice_party/audio/level_029.wav"
+        }
+      ]
+    },
+    {
+      "level": 30,
+      "world": "robots",
+      "rounds": [
+        {
+          "id": "level_030_round_1",
+          "label": "Boss Protocol",
+          "durationMs": 3000,
+          "pitch": [
+            170,
+            280,
+            430,
+            220,
+            500,
+            320,
+            190
+          ],
+          "energy": [
+            0.45,
+            0.6,
+            0.95,
+            0.5,
+            1,
+            0.75,
+            0.4
+          ],
+          "beats": [
+            0,
+            380,
+            760,
+            1180,
+            1600,
+            2050,
+            2500
+          ],
+          "tones": [
+            170,
+            280,
+            430,
+            220,
+            500,
+            320,
+            190
+          ],
+          "audioUrl": "https://raw.githubusercontent.com/walidrachad/demo_json/main/voice_party/audio/level_030.wav"
+        },
+        {
+          "id": "level_030_round_2",
+          "label": "Boss Protocol",
+          "durationMs": 3000,
+          "pitch": [
+            170,
+            280,
+            430,
+            220,
+            500,
+            320,
+            190
+          ],
+          "energy": [
+            0.45,
+            0.6,
+            0.95,
+            0.5,
+            1,
+            0.75,
+            0.4
+          ],
+          "beats": [
+            0,
+            380,
+            760,
+            1180,
+            1600,
+            2050,
+            2500
+          ],
+          "tones": [
+            170,
+            280,
+            430,
+            220,
+            500,
+            320,
+            190
+          ],
+          "audioUrl": "https://raw.githubusercontent.com/walidrachad/demo_json/main/voice_party/audio/level_030.wav"
+        },
+        {
+          "id": "level_030_round_3",
+          "label": "Boss Protocol",
+          "durationMs": 3000,
+          "pitch": [
+            170,
+            280,
+            430,
+            220,
+            500,
+            320,
+            190
+          ],
+          "energy": [
+            0.45,
+            0.6,
+            0.95,
+            0.5,
+            1,
+            0.75,
+            0.4
+          ],
+          "beats": [
+            0,
+            380,
+            760,
+            1180,
+            1600,
+            2050,
+            2500
+          ],
+          "tones": [
+            170,
+            280,
+            430,
+            220,
+            500,
+            320,
+            190
+          ],
+          "audioUrl": "https://raw.githubusercontent.com/walidrachad/demo_json/main/voice_party/audio/level_030.wav"
+        }
+      ]
+    }
+  ]
+}
